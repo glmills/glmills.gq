@@ -1,1 +1,0 @@
-This is the main folder for any of the Garrett Mills apis.
