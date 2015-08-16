@@ -1,0 +1,74 @@
+/* Coded by Garrett Mills 
+ * http://glmills.gq/ 
+ * Last Edited on 5 August 13:18
+ * This code is licensed under Creative Commons Attribution-ShareAlike 4.0 International License
+ * http://glmills.gq/mycode/licenses/CCA-SA4.html 
+ */
+
+@font-face { font-family: sansationLight; src: url(/pageDep/font/Sansation/SansationLight.woff); }
+@font-face { font-family: monofur; src: url(/pageDep/font/Monofur/monof55.woff);}
+
+/* Main Left Panel */
+
+.mainPanel{
+    
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    background: #19215C;
+    left: -5;
+    top: -5;
+    height: 101%;
+    width: 20%;
+    font-family: sansationLight;
+    text-align: center;
+    color: #EEE;
+    
+}
+
+/* Navigation List */
+
+.naviPanel {
+    list-style-type: none;
+    text-align: center;
+}
+
+.naviPanel li {
+    
+    padding: 15px;
+    position: relative;
+    left: -33;
+    width: 101%;
+    
+}
+
+.naviPanel li:hover {
+    background: #242661;
+}
+
+/* Main Content */
+
+.content {
+    padding: 5px;
+    position: relative;
+    top: -10;
+    left: 19.25%;
+    width: 80%;
+    height: 98%;
+    font-family: sansationLight;
+    overflow-x: hidden;
+}
+
+.socialPanel {
+    position: relative;
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.socialPanel li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,42 @@
+/* Coded by Garrett Mills 
+ * http://glmills.gq/ 
+ * Last Edited on 5 August 13:18
+ * This code is licensed under Creative Commons Attribution-ShareAlike 4.0 International License
+ * http://glmills.gq/mycode/licenses/CCA-SA4.html 
+ */
+.content {
+    
+    background-image: url(/pageDep/images/earthBlur.jpg);
+    background-size: 100% 100%;
+    height: 101%;
+    
+}
+
+#hworld {
+    
+    color: #FFFFFF;
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    font-size: 60pt;
+    
+}
+
+
+#linebar {
+    position: relative;
+    height: 2px;
+    width: 500px;
+    background: #FFFFFF;
+    top: -55;
+}
+
+#intro {
+    position: relative;
+    color: #FFFFFF;
+    top: -55;
+}
+
+.content {
+    position: fixed;
+}

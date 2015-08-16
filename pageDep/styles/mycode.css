@@ -1,0 +1,21 @@
+/* Coded by Garrett Mills 
+ * http://glmills.gq/ 
+ * Last Edited on 5 August 13:18
+ * This code is licensed under Creative Commons Attribution-ShareAlike 4.0 International License
+ * http://glmills.gq/mycode/licenses/CCA-SA4.html 
+ */
+ 
+#codeword {
+    position: relative;
+    left: -5;
+    top: -4;
+}
+
+#codebygarrett {
+    font-size: 20pt;
+    font-family: monofur;
+}
+
+#headerCode{
+    font-family: monofur;
+}
