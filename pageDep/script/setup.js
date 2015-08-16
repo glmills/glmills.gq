@@ -25,3 +25,5 @@ document.write('\
             </ul>\
         </div>\
 ');
+
+alert("Attention: This website is still under construction and may not be complete. Sorry. --Garrett")
